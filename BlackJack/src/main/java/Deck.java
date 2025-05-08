@@ -33,15 +33,8 @@ public class Deck {
         return null;
     }
 // tells us how many cards are left
-    public int size() {
+    public int remainingCards() {
         return deck.size();
     }
-
-
-
-
-
-
-
 
 }
